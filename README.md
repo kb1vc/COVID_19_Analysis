@@ -11,4 +11,13 @@ simple to extend the analysis or take it in a completely new direction.
 The notebook is intended as an example a starting point.  It is *not* a 
 pandas tutorial.  For something like that see [here](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 
+To try out the file, you'll need to have installed jupyter notebook.  Then do this 
 
+```
+jupyter notebook DailyExp.ipynb
+```
+
+When the jupyter web page pops up in a nearby browser, you should see a 
+menubar.  Select Kernel->Restart & Run All
+
+This will read in a recent copy of the JHU COVID-19 database for cases reported in the US. 
