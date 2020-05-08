@@ -1,0 +1,8 @@
+name: C10A-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - mpl_toolkits
