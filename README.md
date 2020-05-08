@@ -42,5 +42,5 @@ This will read in a recent copy of the JHU COVID-19 database for cases reported 
 
 ## To launch this file in binder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb1vc/COVID_19_Analysis.git/master)
+Poke this button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb1vc/COVID_19_Analysis.git/master)
 
