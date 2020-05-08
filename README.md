@@ -37,3 +37,10 @@ When the jupyter web page pops up in a nearby browser, you should see a
 menubar.  Select Kernel->Restart & Run All
 
 This will read in a recent copy of the JHU COVID-19 database for cases reported in the US. 
+
+
+
+## To launch this file in binder: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kb1vc/COVID_19_Analysis.git/master)
+
