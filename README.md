@@ -1,6 +1,22 @@
 # COVID_19_Analysis
 Example Jupyter Notebook (s) to analyze the JHU COVID-19 databases.
 
+# Cloning
+
+When cloning this repo, it is best to do it "recursively" as the JHU
+database is included as a "submodule."  Like this:
+```
+git clone --recursive  https://github.com/kb1vc/COVID_19_Analysis.git
+```
+
+If you didn't do that, then *cd* into your cloned-directory and do this
+```
+git submodule update --init --recursive
+```
+and all should be well.
+
+# What this is
+
 This isn't exactly big data, but it uses some tools that have proved 
 useful in many big data experiments.
 
